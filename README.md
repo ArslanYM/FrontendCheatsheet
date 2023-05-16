@@ -7,6 +7,7 @@
 - [BEM](https://en.bem.info/methodology/) - documentation of BEM methodology;
 - [W3C Validator](https://validator.w3.org/) - markup validation service;
 - [MarkSheet](https://marksheet.io/) - free HTML and CSS tutorials;
+- [Codecademy](https://www.codecademy.com/resources/docs/html) - HTML concepts;
 
 ## Cheatsheet
 
@@ -66,9 +67,11 @@
 - [CSS Diner](https://flukeout.github.io/) - game for learning CSS;
 - [Flexbox Examples](https://tpverstak.ru/flex-cheatsheet/) - cheatsheet for flexbox;
 - [Flexbox Guide EN](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - comprehensive guide to CSS flexbox layout;
+- [Grid Guide EN](https://css-tricks.com/snippets/css/complete-guide-grid/) - comprehensive guide to CSS Grid layout;
 - [Flexbox Guide RU](https://frontender.info/a-guide-to-flexbox/) - guide to CSS flexbox;
 - [CSS Animation](https://cssanimation.rocks/principles/) - animation principles for the Web;
 - [Animation Exmaples](https://css-tricks.com/tips-for-writing-animation-code-efficiently/) - tips for writing animation code efficiently;
+- [Codecademy](https://www.codecademy.com/resources/docs/css) - CSS concepts;
 
 ## Services
 
@@ -98,6 +101,9 @@
 - [Javascript Dev Bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - collection of articles;
 - [Fetch](https://dev.to/connoro7/the-fetch-api-e12) - JavaScript fetch API and using async / await;
 - [Axios](https://github.com/axios/axios) - promise based HTTP client for browser and node.js;
+- [Exercism](https://exercism.org/tracks/javascript) - programming exercises and challenges to help developers improve JavaScript skills;
+- [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - learn how to manipulate the DOM, use object-oriented programming principles, and build single page applications with React;
+- [Codecademy](https://www.codecademy.com/resources/docs/javascript) - JavaScript concepts;
 
 ## Node & NPM
 
